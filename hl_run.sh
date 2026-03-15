@@ -10,4 +10,7 @@ cd "$HL_DIR"
   -insecure \
   +sv_lan 1 \
   +maxplayers 16 \
+  +mp_timelimit 20 \
+  +mp_fraglimit 50 \
+  +mp_forcerespawn 0 \
   +map crossfire
