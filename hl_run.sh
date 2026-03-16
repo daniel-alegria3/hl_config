@@ -13,4 +13,5 @@ cd "$HL_DIR"
   +mp_timelimit 20 \
   +mp_fraglimit 50 \
   +mp_forcerespawn 0 \
+  -num_edicts 4096 \
   +map crossfire
